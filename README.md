@@ -8,12 +8,6 @@
 | 3_Implementation|	All code and documentation|
 | 4_Test_plan|	Documents with test plans and procedures|
 
-## Functions
-|Feature Id|	Feature|
-|---------|----------|
-|F_01|	Adding the Records|
-|F_02	|Deleting the Records|
-|F_03|	Searching the Records|
-|F_04	|View the records|
+
 
 
