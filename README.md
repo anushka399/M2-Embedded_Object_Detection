@@ -16,5 +16,4 @@
 |F_03|	Searching the Records|
 |F_04	|View the records|
 
-## Integrated Tools to GitHub
-Codacy
+
