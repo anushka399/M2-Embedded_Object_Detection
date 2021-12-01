@@ -1,4 +1,4 @@
-# M2_Embedded_Automatic_Plant_Watering_System
+# M2-Embedded_Object_Detection
 
 ## Folder Structure
 
