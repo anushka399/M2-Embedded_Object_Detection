@@ -1,6 +1,6 @@
 /**
  * @file ultra_config.h
- * @author your name (you@domain.com)
+ * @author Anushka (you@domain.com)
  * @brief configure file for defining port 
  * @version 0.1
  * @date 2021-12-01
@@ -20,6 +20,6 @@
 
 #define LightSwitch				5	//for the enable pin 
 #define ReadWrite				4	//for R/W pin
-#define BipolarMood	            3  // for the Register select pin
+#define BipolarMood	     3  // for the Register select pin
 
 #endif
