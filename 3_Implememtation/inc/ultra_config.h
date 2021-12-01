@@ -12,14 +12,14 @@
 #define ultra
 #include <avr/io.h>
 
-#define ultrasCrib				PORTA
-#define DataDir_ultraCrib		DDRA
+#define ultrasCrib				   PORTA
+#define DataDir_ultraCrib		 DDRA
 
-#define ultrasControl			PORTD
+#define ultrasControl			    PORTD
 #define DataDir_ultrasControl	DDRD
 
 #define LightSwitch				5	//for the enable pin 
-#define ReadWrite				4	//for R/W pin
-#define BipolarMood	     3  // for the Register select pin
+#define ReadWrite				  4	//for R/W pin
+#define BipolarMood	      3  // for the Register select pin
 
 #endif
