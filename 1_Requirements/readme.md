@@ -20,9 +20,9 @@ In this project, ultrasonic sensor with Arduino is used to determine the distanc
 
 # SWOT ANALYSIS
 ## Strengths
- • Simple device for distance measuremen.
- • Cost effective. 
- • Maintenance is easy.
+ - Simple device for distance measuremen.
+ - Cost effective. 
+ - Maintenance is easy.
  
 ### Weakness
  • Limited range.
