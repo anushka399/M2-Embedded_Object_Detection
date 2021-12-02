@@ -9,20 +9,16 @@ The objective of the project is to design and implement an ultrasonic distance m
  Can provide voice feedback system
 
 ## **Features**
-
-- Ease of use.
-
-- Cost effective.
-
-- Measures accurate distance.
-
-- Measures objects regardless of shape, color or surface texture.
+-  Ease of use.
+-  Cost effective.
+-  Measures accurate distance.
+-  Measures objects regardless of shape, color or surface texture.
 
 ## **Defining our System**
 
 In this project, ultrasonic sensor with Arduino is used to determine the distance of an obstacle from the sensor.The basic principle of ultrasonic distance measurement is based on ECHO. When sound waves are transmitted in the environment then waves return back to the origin as ECHO after striking on the obstacle. So we only need to calculate the traveling time of both sounds means outgoing time and returning time to origin after striking on the obstacle. As the speed of the sound is known to us, after calculations we are able to calculate the distance.
 
-# **SWOT ANALYSIS**
+# SWOT ANALYSIS
 ## Strengths
  • Simple device for distance measuremen.
  • Cost effective. 
@@ -54,7 +50,7 @@ This system isn used when we want to calculate the approxomate distance from a p
 ##  How
  As the ultrasonic sensor uses transmitter to transmit sound waves and oncethe transmitted wave  bounce back and is received by ultrasonic receiver. By using the reciver timing distance is calculated.
  
-## **Details requirements**
+## Details requirements
 ### High Level Requirements
 
 | ID | Description | Status |
